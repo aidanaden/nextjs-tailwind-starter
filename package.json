@@ -8,6 +8,7 @@
   "dependencies": {
     "@headlessui/react": "^1.4.2",
     "@tailwindcss/forms": "^0.3.4",
+    "@tailwindcss/line-clamp": "^0.2.2",
     "downshift": "^6.1.7",
     "next": "latest",
     "react": "^17.0.2",

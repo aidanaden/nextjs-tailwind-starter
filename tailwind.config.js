@@ -12,5 +12,6 @@ module.exports = {
     require('tailwind-scrollbar-hide'),
     require('@tailwindcss/forms'),
     require('tailwind-scrollbar'),
+    require('@tailwindcss/line-clamp'),
   ],
 }
