@@ -19,9 +19,9 @@ Also comes with common landing page/dashboard components:
 Run the following command to create a new project with this Starter:
 
 ```
-yarn create next-app [project-name] -e https://github.com...
+yarn create next-app [project-name] -e https://github.com/aidanaden/nextjs-tailwind-starter.git
 # or
-npx create-next-app [project-name] -e https://github.com...
+npx create-next-app [project-name] -e https://github.com/aidanaden/nextjs-tailwind-starter.git
 ```
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
