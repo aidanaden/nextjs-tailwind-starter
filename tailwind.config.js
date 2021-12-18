@@ -13,5 +13,6 @@ module.exports = {
     require('@tailwindcss/forms'),
     require('tailwind-scrollbar'),
     require('@tailwindcss/line-clamp'),
+    require('@tailwindcss/typography')
   ],
 }
