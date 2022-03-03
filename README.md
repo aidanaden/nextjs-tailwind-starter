@@ -1,12 +1,13 @@
 # Next.js + Typscript + TailwindCSS + Prettier + ESLint Starter kit
 
-NextJS + TailwindCSS starter kit with common apps like:
+NextJS + TailwindCSS starter kit with common packages like:
 1. tailwind-scrollbar-hide
 2. tailwind-scrollbar
 3. @tailwindcss/forms
 4. @tailwindcss/line-clamp
+5. react-hook-form
 
-Also comes with common landing page/dashboard components:
+Also comes with common landing page/dashboard components (WIP):
 1. Marquee slider
 2. Headers/Navbars
 3. Hero section
