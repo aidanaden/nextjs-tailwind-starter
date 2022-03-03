@@ -1,4 +1,4 @@
-# Next.js + TailwindCSS Starter kit
+# Next.js + Typscript + TailwindCSS + Prettier + ESLint Starter kit
 
 NextJS + TailwindCSS starter kit with common apps like:
 1. tailwind-scrollbar-hide
