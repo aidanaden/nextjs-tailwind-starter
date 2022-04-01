@@ -1,5 +1,10 @@
 {
-  "extends": ["next/core-web-vitals", "prettier"],
+  "extends": [
+    "next/core-web-vitals",
+    "prettier",
+    "plugin:cypress/recommended",
+    "eslint:recommended"
+  ],
   "settings": {
     "next": {
       "rootDir": "src"
