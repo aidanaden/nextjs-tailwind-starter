@@ -63,13 +63,6 @@ npx create-next-app [project-name] -e https://github.com/aidanaden/nextjs-tailwi
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
 
-<h3>Contributing</h3>
-Keep it simple. Keep it minimal. Don't put every single feature just because you can.
-
-<h3>Authors or Acknowledgments</h3>
-<ul>
-  <li>Vladimir Carrer</li>
-</ul>
 
 <h3>License</h3>
 
